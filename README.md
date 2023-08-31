@@ -4,10 +4,13 @@ Well this is a simple webpage to present Conway's Game of Life.
 
 Made by vite so make sure you have already had nodejs installed.
 
+```cmd
 npm install
 npm run dev
+```
 
 Then you may see the game.
+
 ## settings
 
 I have set the update time to 1.5s, so you may see the page update every 1.5s as an iteration.

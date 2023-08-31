@@ -1,4 +1,4 @@
-Game of life
+# Game of life
 
 Well this is a simple webpage to present Conway's Game of Life.
 
@@ -8,7 +8,7 @@ npm install
 npm run dev
 
 Then you may see the game.
-settings
+## settings
 
 I have set the update time to 1.5s, so you may see the page update every 1.5s as an iteration.
 
